@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TabLayout</string>
+    <string name="tablayout">tabLayout</string>
+    <string name="bottomnav">bottomNav</string>
+    <string name="music">Музыка</string>
+    <string name="settings">Настройки</string>
+    <string name="profile">Профиль</string>
+</resources>
